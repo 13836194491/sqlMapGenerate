@@ -121,6 +121,7 @@
 		</table> -->
 		
 		<table schema="" tableName="big_customer_report_industry_sale" />
-		
+		<table schema="" tableName="students" />
+
 	</context>
 </generatorConfiguration>
